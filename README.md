@@ -1,5 +1,5 @@
 ![Spotify_Logo_RGB_Green.png](.//img/Spotify_Logo_RGB_Green.png)
-# Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nizarchaouch/Spotify-Music-Data/master?labpath=Spotify%20Music%20Data.ipynb)
+# Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nizarchaouch/analyse-spotify/master?labpath=Spotify.ipynb)
 Cet ensemble de données se compose d'environ 600 chansons qui figuraient parmi les meilleures chansons de l'année de 2010 à 2019 (telles que mesurées par Billboard). Vous pouvez explorer des données de chansons intéressantes extraites de Spotify telles que les battements par minute, la quantité de mots prononcés, le volume et l'énergie de chaque chanson.
 |    | Variable   | Explication                                                |
 |---:|:-----------|:-----------------------------------------------------------|
