@@ -1,4 +1,4 @@
 pandas
 numpy 
-matplotlib.pyplot
+matplotlib.pyplot=2.2.3
 seaborn
